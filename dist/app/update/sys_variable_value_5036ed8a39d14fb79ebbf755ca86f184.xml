@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>5036ed8a39d14fb79ebbf755ca86f184</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_5036ed8a39d14fb79ebbf755ca86f184</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>be811ecd2f424bdeae25989273c271ba</document_key>
+    <value>[{"id":"27a7964cb8da230210027e5571f69d55","label":"Afgewezen","condition":"activity_7693bcc6a60946b499ab8b6eb05f8a64.outputs.state=rejected","order":1,"activitiesCount":0},{"id":"ELSE","label":"Else","condition":"","order":2,"activitiesCount":0}]</value>
+    <variable>074e5876c7ad5110bfbaf89f51c26087</variable>
+  </sys_variable_value>
+</record_update>

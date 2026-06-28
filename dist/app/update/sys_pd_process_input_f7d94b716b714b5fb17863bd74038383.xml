@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_process_input">
+  <sys_pd_process_input action="INSERT_OR_UPDATE">
+    <sys_id>f7d94b716b714b5fb17863bd74038383</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_process_input_f7d94b716b714b5fb17863bd74038383</sys_update_name>
+    <active>true</active>
+    <attributes>element_mapping_provider=com.snc.pd.designer.elementmapping.PlaybookInputElementMapper</attributes>
+    <element>parent_record</element>
+    <internal_type>reference</internal_type>
+    <label>Parent record</label>
+    <mandatory>false</mandatory>
+    <max_length>32</max_length>
+    <model>40de9c41a6ce495c9cdf98799da9442f</model>
+    <model_id>40de9c41a6ce495c9cdf98799da9442f</model_id>
+    <model_table/>
+    <name>var__m_sys_pd_process_input_40de9c41a6ce495c9cdf98799da9442f</name>
+    <order>1</order>
+    <reference>x_967105_keuzeruim_case</reference>
+  </sys_pd_process_input>
+</record_update>

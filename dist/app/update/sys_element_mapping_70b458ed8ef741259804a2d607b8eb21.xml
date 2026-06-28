@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>70b458ed8ef741259804a2d607b8eb21</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_70b458ed8ef741259804a2d607b8eb21</sys_update_name>
+    <field>parent_record</field>
+    <id>7e4766a3f4ba44e3ae0a27db6fd5705f</id>
+    <table>var__m_sys_pd_process_input_40de9c41a6ce495c9cdf98799da9442f</table>
+    <value>{{triggerRecord}}</value>
+  </sys_element_mapping>
+</record_update>

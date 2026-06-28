@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>20e28f35347b46ea85119525f9b5351f</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_20e28f35347b46ea85119525f9b5351f</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>c227d592cff5479cb02f2d45878f0870</document_key>
+    <value>Stap 4</value>
+    <variable>9a0c340673030010fe4a6da44cf6a7de</variable>
+  </sys_variable_value>
+</record_update>

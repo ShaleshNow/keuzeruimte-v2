@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>0aa9ac087dd548aca22518376df8e7cb</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_0aa9ac087dd548aca22518376df8e7cb</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>1dbf733f90f34f50a07b59b4ca24e171</document_key>
+    <value/>
+    <variable>ec5d96eac7e60010bfbaf89f51c2605d</variable>
+  </sys_variable_value>
+</record_update>

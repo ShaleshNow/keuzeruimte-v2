@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_activity">
+  <sys_pd_activity action="INSERT_OR_UPDATE">
+    <sys_id>be811ecd2f424bdeae25989273c271ba</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_activity_be811ecd2f424bdeae25989273c271ba</sys_update_name>
+    <active>true</active>
+    <activity_definition>226ed8f6c7ad5110bfbaf89f51c260b1</activity_definition>
+    <ai_agent_execution_mode/>
+    <ai_agent_obj_additional_detail/>
+    <ai_agent_objective/>
+    <ai_agent_run_as>playbook_user</ai_agent_run_as>
+    <ai_agent_run_with_roles/>
+    <ai_agent_user/>
+    <condition_to_run/>
+    <conversational_agents/>
+    <description/>
+    <enable_ai_agent/>
+    <label>Beslissing goedkeuring</label>
+    <lane>079ed7b27d7e49869d6568bbeadbae07</lane>
+    <launch_agent_when_activity_start/>
+    <name>beslissing_goedkeuring</name>
+    <order>200</order>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule_name>after_items</start_rule_name>
+    <starts_after_activities>7693bcc6a60946b499ab8b6eb05f8a64</starts_after_activities>
+    <starts_after_branches/>
+    <starts_after_lanes/>
+  </sys_pd_activity>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>62a2465489b24e129398bc2135e50e57</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_62a2465489b24e129398bc2135e50e57</sys_update_name>
+    <field>experience_status_table</field>
+    <id>7693bcc6a60946b499ab8b6eb05f8a64</id>
+    <table>var__m_sys_pd_activity_type_prop_fdbeceb95b61001070e4492c11f91a28</table>
+    <value/>
+  </sys_element_mapping>
+</record_update>

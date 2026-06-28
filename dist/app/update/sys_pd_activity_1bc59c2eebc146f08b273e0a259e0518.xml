@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_activity">
+  <sys_pd_activity action="INSERT_OR_UPDATE">
+    <sys_id>1bc59c2eebc146f08b273e0a259e0518</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_activity_1bc59c2eebc146f08b273e0a259e0518</sys_update_name>
+    <active>true</active>
+    <activity_definition>569b840c1bbf0010affd0e55cc4bcbac</activity_definition>
+    <ai_agent_execution_mode/>
+    <ai_agent_obj_additional_detail/>
+    <ai_agent_objective/>
+    <ai_agent_run_as>playbook_user</ai_agent_run_as>
+    <ai_agent_run_with_roles/>
+    <ai_agent_user/>
+    <condition_to_run/>
+    <conversational_agents/>
+    <description/>
+    <enable_ai_agent/>
+    <label>Case afsluiten (afgewezen)</label>
+    <lane>079ed7b27d7e49869d6568bbeadbae07</lane>
+    <launch_agent_when_activity_start/>
+    <name>case_afsluiten_afgewezen</name>
+    <order>300</order>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule_name>after_items</start_rule_name>
+    <starts_after_activities>be811ecd2f424bdeae25989273c271ba</starts_after_activities>
+    <starts_after_branches>be811ecd2f424bdeae25989273c271ba.27a7964cb8da230210027e5571f69d55</starts_after_branches>
+    <starts_after_lanes/>
+  </sys_pd_activity>
+</record_update>

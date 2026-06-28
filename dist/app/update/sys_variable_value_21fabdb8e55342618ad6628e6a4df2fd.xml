@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>21fabdb8e55342618ad6628e6a4df2fd</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_21fabdb8e55342618ad6628e6a4df2fd</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>e727209e012e43a4810f286e2577315b</document_key>
+    <value>Vak hangen aan studie in SLcM</value>
+    <variable>13597d8ac7200010bfbaf89f51c2609e</variable>
+  </sys_variable_value>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>8d6b8fecf36545fe8161c37ace5395f6</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_8d6b8fecf36545fe8161c37ace5395f6</sys_update_name>
+    <field>tagline</field>
+    <id>e727209e012e43a4810f286e2577315b</id>
+    <table>var__m_sys_pd_activity_type_prop_e12af577871333003058d1a936cb0ba4</table>
+    <value/>
+  </sys_element_mapping>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<record_update table="question_choice">
+  <question_choice action="INSERT_OR_UPDATE">
+    <sys_id>16ec424936bf41d1a34499f004392c1f</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>question_choice_16ec424936bf41d1a34499f004392c1f</sys_update_name>
+    <inactive>false</inactive>
+    <order>1</order>
+    <question cat_item="834f0af9767e4924b58da96cf3bcbdca" variable_set="NULL" name="binnen_buiten_vu">33820b96463d4183acf90dd3a4ea3297</question>
+    <text>Binnen de VU</text>
+    <value>binnen_vu</value>
+  </question_choice>
+</record_update>

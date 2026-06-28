@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<record_update>
+  <sys_choice_set table="x_967105_keuzeruim_case" field="x_967105_keuzeruim_binnen_buiten_vu">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>f045be8f8d164910a4c0bb5072215889</sys_id>
+      <name>x_967105_keuzeruim_case</name>
+      <element>x_967105_keuzeruim_binnen_buiten_vu</element>
+      <label>Binnen de VU</label>
+      <value>binnen_vu</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>a5e68d91015742798a4d5948124683ed</sys_id>
+      <name>x_967105_keuzeruim_case</name>
+      <element>x_967105_keuzeruim_binnen_buiten_vu</element>
+      <label>Buiten de VU</label>
+      <value>buiten_vu</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>48e7692624d9411f9fb308fcff5b7d95</sys_id>
+      <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+      <name>x_967105_keuzeruim_case</name>
+      <element>x_967105_keuzeruim_binnen_buiten_vu</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

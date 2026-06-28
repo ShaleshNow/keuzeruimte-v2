@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_lane">
+  <sys_pd_lane action="INSERT_OR_UPDATE">
+    <sys_id>9ea79d3e19704ffcbb0b031ad12ab4b7</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_lane_9ea79d3e19704ffcbb0b031ad12ab4b7</sys_update_name>
+    <active>true</active>
+    <condition_to_run/>
+    <description/>
+    <label>Formulier indienen</label>
+    <name>formulier_indienen</name>
+    <order>100</order>
+    <permission>{}</permission>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule>immediate</start_rule>
+    <start_rule_name>immediate</start_rule_name>
+    <starts_after_activities/>
+    <starts_after_branches/>
+    <starts_after_lanes/>
+  </sys_pd_lane>
+</record_update>

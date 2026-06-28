@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>cdd0fae86d4741f28f527ca86c85d8d9</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_cdd0fae86d4741f28f527ca86c85d8d9</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>716d6cfa8a8347e0bd85be576a669b7f</document_key>
+    <value>Controleer het verzoek en teken in voor het vak binnen de VU.</value>
+    <variable>1d27b10ac7200010bfbaf89f51c26016</variable>
+  </sys_variable_value>
+</record_update>

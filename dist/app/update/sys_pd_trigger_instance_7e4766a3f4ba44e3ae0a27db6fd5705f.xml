@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_trigger_instance">
+  <sys_pd_trigger_instance action="INSERT_OR_UPDATE">
+    <sys_id>7e4766a3f4ba44e3ae0a27db6fd5705f</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_trigger_instance_7e4766a3f4ba44e3ae0a27db6fd5705f</sys_update_name>
+    <label>Bij aanmaken keuzeruimte verzoek</label>
+    <name>bij_aanmaken_keuzeruimte_verzoek</name>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <trigger_type>ab6951170f1200108c87f4f0ff767e4f</trigger_type>
+  </sys_pd_trigger_instance>
+</record_update>

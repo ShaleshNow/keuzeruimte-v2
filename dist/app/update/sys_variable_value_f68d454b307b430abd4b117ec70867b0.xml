@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>f68d454b307b430abd4b117ec70867b0</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_f68d454b307b430abd4b117ec70867b0</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>716d6cfa8a8347e0bd85be576a669b7f</document_key>
+    <value>sys_flow_data</value>
+    <variable>4612be72c3211010381b60bc0eba8f47</variable>
+  </sys_variable_value>
+</record_update>

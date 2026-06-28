@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>54cb505152ed43b6a9bad8f8ed912bcf</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_54cb505152ed43b6a9bad8f8ed912bcf</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>c227d592cff5479cb02f2d45878f0870</document_key>
+    <value>Vraag goedkeuring aan bij de aanbiedende externe universiteit.</value>
+    <variable>1d27b10ac7200010bfbaf89f51c26016</variable>
+  </sys_variable_value>
+</record_update>

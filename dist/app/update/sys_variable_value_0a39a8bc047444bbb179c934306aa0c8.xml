@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>0a39a8bc047444bbb179c934306aa0c8</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_0a39a8bc047444bbb179c934306aa0c8</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>1dbf733f90f34f50a07b59b4ca24e171</document_key>
+    <value>Uw verzoek voor toestemming invulling keuzeruimte is ingediend en wordt beoordeeld door de examencommissie.</value>
+    <variable>6c9c4ee31b630010affd0e55cc4bcbbf</variable>
+  </sys_variable_value>
+</record_update>

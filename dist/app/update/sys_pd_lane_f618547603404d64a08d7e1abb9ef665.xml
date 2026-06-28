@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_lane">
+  <sys_pd_lane action="INSERT_OR_UPDATE">
+    <sys_id>f618547603404d64a08d7e1abb9ef665</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_lane_f618547603404d64a08d7e1abb9ef665</sys_update_name>
+    <active>true</active>
+    <condition_to_run>input_record.x_967105_keuzeruim_binnen_buiten_vu=binnen_vu^input_record.state!=7</condition_to_run>
+    <description/>
+    <label>Onderwijsbureau aanbiedende faculteit</label>
+    <name>onderwijsbureau_aanbiedende_faculteit</name>
+    <order>300</order>
+    <permission>{}</permission>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule>after_items</start_rule>
+    <start_rule_name>after_items</start_rule_name>
+    <starts_after_activities/>
+    <starts_after_branches/>
+    <starts_after_lanes>079ed7b27d7e49869d6568bbeadbae07</starts_after_lanes>
+  </sys_pd_lane>
+</record_update>

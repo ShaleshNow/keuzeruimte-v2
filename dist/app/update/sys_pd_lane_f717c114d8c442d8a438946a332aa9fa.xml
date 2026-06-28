@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_lane">
+  <sys_pd_lane action="INSERT_OR_UPDATE">
+    <sys_id>f717c114d8c442d8a438946a332aa9fa</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_lane_f717c114d8c442d8a438946a332aa9fa</sys_update_name>
+    <active>true</active>
+    <condition_to_run>input_record.x_967105_keuzeruim_binnen_buiten_vu=buiten_vu^input_record.state!=7</condition_to_run>
+    <description/>
+    <label>Externe resultaten</label>
+    <name>externe_resultaten</name>
+    <order>500</order>
+    <permission>{}</permission>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule>after_items</start_rule>
+    <start_rule_name>after_items</start_rule_name>
+    <starts_after_activities/>
+    <starts_after_branches/>
+    <starts_after_lanes>fd2908e2ba03427e8007eb2c885b2fc8</starts_after_lanes>
+  </sys_pd_lane>
+</record_update>

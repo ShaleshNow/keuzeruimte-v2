@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>16cee56dc23848d5a6f09149bbd2ed3c</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_16cee56dc23848d5a6f09149bbd2ed3c</sys_update_name>
+    <field>assignment_group</field>
+    <id>e727209e012e43a4810f286e2577315b</id>
+    <table>var__m_sys_hub_flow_input_cb18ceef1b230010affd0e55cc4bcbf2</table>
+    <value/>
+  </sys_element_mapping>
+</record_update>

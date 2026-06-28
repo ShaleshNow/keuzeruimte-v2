@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<record_update table="sc_cat_item_catalog">
+  <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+    <sys_id>813cbe55d9b447e89a19f419b3cb30cc</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sc_cat_item_catalog_813cbe55d9b447e89a19f419b3cb30cc</sys_update_name>
+    <sc_cat_item>834f0af9767e4924b58da96cf3bcbdca</sc_cat_item>
+    <sc_catalog>65bcd377c3011200b12d9f2974d3aea0</sc_catalog>
+  </sc_cat_item_catalog>
+</record_update>

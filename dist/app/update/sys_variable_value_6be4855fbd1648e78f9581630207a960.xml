@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>6be4855fbd1648e78f9581630207a960</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_6be4855fbd1648e78f9581630207a960</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>c227d592cff5479cb02f2d45878f0870</document_key>
+    <value>{{pd.inputRecord.caller_id}}</value>
+    <variable>3499c6631b630010affd0e55cc4bcb90</variable>
+  </sys_variable_value>
+</record_update>

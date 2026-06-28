@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>f851ddbf09554daca7a9e1b552f0fbb0</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_f851ddbf09554daca7a9e1b552f0fbb0</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>a7e659632bfc4b188366d6a8fd9a2e2c</document_key>
+    <value>[{"id":"4ebdbcdca997bce59670f8b88fe697db","label":"Binnen de VU","condition":"input_record.x_967105_keuzeruim_binnen_buiten_vu=binnen_vu","order":1,"activitiesCount":0},{"id":"ELSE","label":"Else","condition":"","order":2,"activitiesCount":0}]</value>
+    <variable>074e5876c7ad5110bfbaf89f51c26087</variable>
+  </sys_variable_value>
+</record_update>

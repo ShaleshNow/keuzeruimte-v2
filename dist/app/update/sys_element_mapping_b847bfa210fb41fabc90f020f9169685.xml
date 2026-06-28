@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>b847bfa210fb41fabc90f020f9169685</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_b847bfa210fb41fabc90f020f9169685</sys_update_name>
+    <field>type</field>
+    <id>a7e659632bfc4b188366d6a8fd9a2e2c</id>
+    <table>var__m_sys_hub_flow_input_401bd436c7ad5110bfbaf89f51c260be</table>
+    <value/>
+  </sys_element_mapping>
+</record_update>

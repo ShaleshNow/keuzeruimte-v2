@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<record_update table="sys_pd_activity">
+  <sys_pd_activity action="INSERT_OR_UPDATE">
+    <sys_id>e727209e012e43a4810f286e2577315b</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_pd_activity_e727209e012e43a4810f286e2577315b</sys_update_name>
+    <active>true</active>
+    <activity_definition>c9839e38b701311004c164fdde11a904</activity_definition>
+    <ai_agent_execution_mode/>
+    <ai_agent_obj_additional_detail/>
+    <ai_agent_objective/>
+    <ai_agent_run_as>playbook_user</ai_agent_run_as>
+    <ai_agent_run_with_roles/>
+    <ai_agent_user/>
+    <condition_to_run/>
+    <conversational_agents/>
+    <description/>
+    <enable_ai_agent/>
+    <label>Vak hangen aan studie in SLcM</label>
+    <lane>2c0a49c4488048369b3542692a2a8d54</lane>
+    <launch_agent_when_activity_start/>
+    <name>vak_hangen_aan_studie_in_slcm</name>
+    <order>200</order>
+    <process_definition>40de9c41a6ce495c9cdf98799da9442f</process_definition>
+    <restart_rule>RUN_ONLY_ONCE</restart_rule>
+    <start_rule_name>after_items</start_rule_name>
+    <starts_after_activities>a7e659632bfc4b188366d6a8fd9a2e2c</starts_after_activities>
+    <starts_after_branches>a7e659632bfc4b188366d6a8fd9a2e2c.4ebdbcdca997bce59670f8b88fe697db</starts_after_branches>
+    <starts_after_lanes/>
+  </sys_pd_activity>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_element_mapping">
+  <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_id>adcb8555280b4b448e02c1bf190345c0</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_element_mapping_adcb8555280b4b448e02c1bf190345c0</sys_update_name>
+    <field>message</field>
+    <id>1dbf733f90f34f50a07b59b4ca24e171</id>
+    <table>var__m_sys_hub_flow_input_2b8b42e31b630010affd0e55cc4bcbe9</table>
+    <value/>
+  </sys_element_mapping>
+</record_update>

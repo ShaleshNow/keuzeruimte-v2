@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<record_update table="sys_module">
+  <sys_module action="INSERT_OR_UPDATE">
+    <sys_id>d6b891ce01d6471b9c3fbe63927cbd5e</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_module_d6b891ce01d6471b9c3fbe63927cbd5e</sys_update_name>
+    <content><![CDATA[{
+  "name": "toestemming-invulling-keuzeruimte",
+  "version": "0.0.1",
+  "description": "",
+  "license": "UNLICENSED",
+  "imports": {
+    "#now:*": "./@types/servicenow/fluent/*/index.js"
+  },
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "devDependencies": {
+    "@servicenow/glide": "27.0.5",
+    "@servicenow/sdk": "4.8.1",
+    "typescript": "5.5.4"
+  },
+  "allowScripts": {
+    "@parcel/watcher@2.5.6": true,
+    "@swc/core@1.15.11": true,
+    "libxmljs2@0.37.0": true
+  }
+}]]></content>
+    <external_source>false</external_source>
+    <path>x_967105_keuzeruim/toestemming-invulling-keuzeruimte/0.0.1/package.json</path>
+    <sys_name>x_967105_keuzeruim/toestemming-invulling-keuzeruimte/0.0.1/package.json</sys_name>
+  </sys_module>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<record_update table="sys_variable_value">
+  <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_id>a5cca91288704b25b5e7aaf651f7fe71</sys_id>
+    <sys_scope display_value="x_967105_keuzeruim">ef62ebbc40d449e68d2c4002d110e9a1</sys_scope>
+    <sys_update_name>sys_variable_value_a5cca91288704b25b5e7aaf651f7fe71</sys_update_name>
+    <document>sys_pd_activity</document>
+    <document_key>5d724108909949ab9e024443e793538c</document_key>
+    <value>Voeg de externe studieresultaten toe in het SLcM systeem.</value>
+    <variable>1d27b10ac7200010bfbaf89f51c26016</variable>
+  </sys_variable_value>
+</record_update>
